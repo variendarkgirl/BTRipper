@@ -24,7 +24,7 @@ cd BTRipper
 make
 ```
 
-## 🎯 Usage
+## Usage
 Run BTRipper and select an attack mode:
 ```bash
 ./btripper
