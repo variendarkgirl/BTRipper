@@ -5,7 +5,7 @@ BTRipper is a Bluetooth jamming tool designed for red teaming activities. It dis
 
 ⚠ **Disclaimer:** This tool is for educational and research purposes only. Unauthorized use may violate laws and regulations.
 
-## 📌 Features
+## Features
 - **L2CAP Flood Attack** - Overloads Bluetooth connections with excessive packets.
 - **Beacon Spoofing** - Broadcasts fake Bluetooth device names.
 - **Channel Hopping Jamming** - Rapidly switches channels to interfere with signals.
