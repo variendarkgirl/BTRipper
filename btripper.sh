@@ -7,6 +7,7 @@ echo "3. Channel Hopping Interference"
 echo "4. RSSI-Based Disruption"
 echo "5. Exit"
 read -p "Select an attack mode: " mode
+
 case $mode in
     1) ./btripper 1 ;;
     2) ./btripper 2 ;;
