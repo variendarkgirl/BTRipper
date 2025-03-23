@@ -11,7 +11,7 @@ BTRipper is a Bluetooth jamming tool designed for red teaming activities. It dis
 - **Channel Hopping Jamming** - Rapidly switches channels to interfere with signals.
 - **RSSI-Based Disruption** - Blocks specific devices based on signal strength.
 
-## 🛠 Installation
+## Installation
 Ensure you have the necessary dependencies installed:
 ```bash
 sudo apt update && sudo apt install -y bluez libbluetooth-dev build-essential
