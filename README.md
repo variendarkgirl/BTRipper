@@ -35,7 +35,7 @@ chmod +x btripper.sh
 ./btripper.sh
 ```
 
-## 🚨 Legal Disclaimer
+## Legal Disclaimer
 This tool is intended for **educational purposes only**. The author is **not responsible** for any misuse. Ensure you have explicit permission before testing on any device.
 
 ##  License
